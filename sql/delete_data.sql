@@ -1,0 +1,11 @@
+delete from MonsterType;
+delete from Armor;
+delete from Sword;
+delete from Potion;
+delete from Oil;
+delete from Monster;
+delete from Shop;
+delete from QuestGiver;
+delete from Location;
+delete from Witcher;
+delete from Board;
